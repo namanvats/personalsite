@@ -13,7 +13,7 @@ SECRET_KEY = 'k7b&jkatb!=vh9$2nk^yti@#*43%4kh75qfm1@qzh4&d&-rcex'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['b3bd1b97.ngrok.io','127.0.0.1']
+ALLOWED_HOSTS = ['namanvats.ml']
 
 
 # Application definition
